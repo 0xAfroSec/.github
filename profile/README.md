@@ -30,7 +30,7 @@ Our mission is to foster trust and confidence in the blockchain ecosystem by off
 
 ## Get in Touch
 
-To learn more about AfroSec Audits or to inquire about our services, please visit our [website](https://www.afrosecaudits.com) or reach out to us via email at [contact@afrosecaudits.com](mailto:contact@afrosecaudits.com).
+To learn more about AfroSec Audits or to inquire about our services, please reach out to us via email at [contact@afrosecaudits.com](mailto:afrosecaudits@gmail.com).
 
 Join us on this exciting journey to secure the future of blockchain technology!
 
