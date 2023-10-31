@@ -1,6 +1,6 @@
-# AfroSec Audits
+# AfroSec
 
-Welcome to 0xAfroSec, Africa's premier smart contract auditing firm!
+Welcome to 0xAfroSec!
 
 ## About Us
 
